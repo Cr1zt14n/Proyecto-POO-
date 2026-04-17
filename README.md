@@ -2,7 +2,7 @@
 
 
 **Autor:** Cristian Penagos
-**Fecha:** (colocar fecha de entrega)
+**Fecha:** 20/3/2026
 
 ---
 
